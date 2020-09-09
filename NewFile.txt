@@ -1,3 +1,7 @@
  
  This is a new file, created from the cloned repository
  This has been added and push to repo.
+ 
+ ============================================================
+ This has been added to be use as a sample for GIT PULL
+ ============================================================
